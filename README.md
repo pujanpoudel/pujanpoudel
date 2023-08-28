@@ -1,7 +1,6 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Pujan</h1>
 <h3 align="center">A passionate flutter developer from Nepal</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://i.gifer.com/3AyY.gif”>
+<img align=“right” alt=“coding” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2cJYw5EGw-Q_Kp98pUYOaf&ust=1693282233729000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjIrIK-_oADFQAAAAAdAAAAABBJf”>
 
 - 🔭 I’m currently working on [Online Restaurant](https://github.com/pujanpoudel/food_delivery)
 
