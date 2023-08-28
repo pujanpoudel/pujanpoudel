@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pujan</h1>
 <h3 align="center">A passionate flutter developer from Nepal</h3>
-<img align=“right” alt=“coding” width=“400” src=“https://user-images.githubusercontent...”>
+<img align=“right” width=“400” src=“https://user-images.githubusercontent...”>
 
 - 🔭 I’m currently working on [Online Restaurant](https://github.com/pujanpoudel/food_delivery)
 
