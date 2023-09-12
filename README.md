@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Flutter, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pujanpoudel?tab=repositories](https://github.com/pujanpoudel?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github Repo](https://github.com/pujanpoudel?tab=repositories)
 
 - 📫 How to reach me **pujanpoudelj7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tDMGH4IQVwjqLRIYc8JlZL8SbfRyUzlB/view?usp=drive_link](https://drive.google.com/file/d/1tDMGH4IQVwjqLRIYc8JlZL8SbfRyUzlB/view?usp=drive_link)
+- 📄 Know about my experiences [Drive link](https://drive.google.com/file/d/1X5ZDRI12zRjvy0rYvZlHw3wIUkieCN7j/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
