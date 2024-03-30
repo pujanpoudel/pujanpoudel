@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Pujan</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
 
-- 🔭 I’m currently working on [Online Restaurant](https://github.com/pujanpoudel/food_delivery)
+- 🔭 I’m currently working on [Flutter/Django]
 
 - 🌱 I’m currently learning **Flutter, Javascript**
 
